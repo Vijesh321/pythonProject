@@ -36,3 +36,9 @@ def add(a,b):
 
 
 print("I added vijesh in the repo")
+
+
+
+
+
+Print ("I have added Sample variable in Repo")
